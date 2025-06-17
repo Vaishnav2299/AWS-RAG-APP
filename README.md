@@ -7,7 +7,7 @@ This Chatbot is build and deployed on AWS using:-
 * Amazon Sagemaker
 * Amazon Kendra
 
-!Alt-Text[app_ss.png]
+![Alt-Text](app_ss.png)
 
 
-!Alt-Text[PatentChat.png]
+![Alt-Text](PatentChat.png)
