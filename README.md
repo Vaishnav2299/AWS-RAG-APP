@@ -11,3 +11,7 @@ This Chatbot is build and deployed on AWS using:-
 
 
 ![Alt-Text](PatentChat.png)
+
+
+Note:
+Please update your Kendra Index Id in the template.yml to use it, I have removed my ID.
