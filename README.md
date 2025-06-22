@@ -1,5 +1,6 @@
 # AWS-RAG-APP
-LLM powered Q&amp;A Chatbot deployed on AWS
+
+An LLM Powered RAG Q&A chat bot deployed end-to-end on AWS cloud utilizing AWS's services such as AWS Kendra, AWS Lambda, AWS ECS,S3 and Dynamo DB.
 
 This Chatbot is build and deployed on AWS using:-
 
